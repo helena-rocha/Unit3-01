@@ -1,0 +1,22 @@
+.first-text {
+  font-family: "Arial Narrow";
+  color:aqua;
+}
+
+.second-text {
+  font-family: "Times New Roman";
+  color:aquamarine;
+}
+
+.table {
+  width: 100%;
+}
+
+.list {
+  background: #3399ff;
+  padding: 20px;
+}
+
+.colored-text {
+  color:blueviolet;
+}
